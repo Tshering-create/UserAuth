@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsheringpema/UserAuth.git"
+    "url": "https://github.com/Tshering-create/UserAuth.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsheringpema/UserAuth/issues"
+    "url": "https://github.com/Tshering-create/UserAuth/issues"
   },
-  "homepage": "https://github.com/tsheringpema/UserAuth#readme",
+  "homepage": "https://github.com/Tshering-create/UserAuth#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
